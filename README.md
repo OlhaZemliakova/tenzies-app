@@ -4,7 +4,7 @@ A simple React dice game. Roll 10 dice and try to get all dice to show the same 
 
 ## Live Demo
 
-View it live: [Your Vercel Link Here](https://tenzies-app-delta.vercel.app)
+View it live: [https://tenzies-app-delta.vercel.app]
 
 ## How to Run Locally
 
